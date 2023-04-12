@@ -96,7 +96,7 @@ const ContactCard = ({
         <input
           value={name}
           type="text"
-          placeholder="Nome do Contato"
+          placeholder="Name..."
           disabled={!isEditing}
           onChange={(e) => setName(e.target.value)}
         />
@@ -106,7 +106,7 @@ const ContactCard = ({
         <input
           value={email}
           type="email"
-          placeholder="Email do Contato"
+          placeholder="example@email.com..."
           disabled={!isEditing}
           onChange={(e) => setEmail(e.target.value)}
         />
@@ -116,7 +116,7 @@ const ContactCard = ({
         <input
           value={telephone}
           type="tel"
-          placeholder="11 953616215"
+          placeholder="(00) 00000-0000"
           disabled={!isEditing}
           onChange={(e) => setTelephone(e.target.value)}
         />

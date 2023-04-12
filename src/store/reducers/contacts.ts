@@ -12,37 +12,37 @@ const initialState: ContactState = {
       id: 1,
       name: 'Gabriel Fortunato',
       email: 'dramaemcrise@gmail.com',
-      telephone: '11 953616215'
+      telephone: '21 813451511'
     },
     {
       id: 2,
       name: 'Leonardo Zocolaro',
       email: 'leonardozocolaro@gmail.com',
-      telephone: '11 953616215'
+      telephone: '11 953651355'
     },
     {
       id: 3,
       name: 'James Noborikawa',
       email: 'jamesnoborikawa@gmail.com',
-      telephone: '11 953616215'
+      telephone: '11 95962215'
     },
     {
       id: 4,
       name: 'Martha Silveira',
       email: 'marthasilveira@gmail.com',
-      telephone: '11 953616215'
+      telephone: '11 241653511'
     },
     {
       id: 5,
       name: 'Katia Afonso',
       email: 'katiaafonso@gmail.com',
-      telephone: '11 953616215'
+      telephone: '11 2146111415'
     },
     {
       id: 6,
       name: 'Renan Godoi',
       email: 'renangodoi@gmail.com',
-      telephone: '11 953616215'
+      telephone: '51 952381215'
     }
   ]
 }
